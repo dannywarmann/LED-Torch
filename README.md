@@ -1,5 +1,5 @@
 
-![[img/LED Torch.png]]
+![img](LED%20Torch.png)
 
 A minimal, no-driver LED torch circuit designed in KiCad, from schematic through PCB layout — just a coin cell, a current-limiting resistor, an LED, and a switch.
 
